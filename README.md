@@ -1,4 +1,4 @@
-## Hi there 👋
+**Interests:** Machine learning, compilers, GPU optimization, embedded systems
 
 _**Recent Projects:**_
 
