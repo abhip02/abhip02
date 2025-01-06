@@ -1,4 +1,4 @@
-🔭 **Interests:** Machine learning, compilers, GPU optimization, embedded systems
+🔭 **Interests:** Machine learning, compilers, parallel computing, and embedded systems.
 
 🌱 _**Recent Projects:**_
 
