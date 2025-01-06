@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+**Current Projects:**
+- **Metal Kernels for M1 Mac**
+  - Write kernels to perform NN operations parallely for faster performance on M1 GPU
+
+- **ChocoPy Compiler: RISC-V Code Generation and Optimization**
+
 <!--
 **abhip02/abhip02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
