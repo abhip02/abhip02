@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-**Recent Projects:**
-- **Metal Kernels for M1 Mac**
+_**Recent Projects:**_
+
+**Metal Kernels for M1 Mac**
   - Write kernels to perform NN operations parallely for faster performance on M1 GPU
   - Use Objective-C for the host CPU to execute Compute Pipelines, and MSL (Metal Shading Langauge) for the kernels
   - Achieve 2x speedup on operations like dot product
