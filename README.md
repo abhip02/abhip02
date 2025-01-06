@@ -1,6 +1,6 @@
-**Interests:** Machine learning, compilers, GPU optimization, embedded systems
+🔭 **Interests:** Machine learning, compilers, GPU optimization, embedded systems
 
-_**Recent Projects:**_
+🌱 _**Recent Projects:**_
 
 **Metal Kernels for M1 Mac**
   - Write kernels to perform NN operations parallely for faster performance on M1 GPU
