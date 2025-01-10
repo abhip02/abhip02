@@ -3,9 +3,8 @@
 🌱 _**Recent Projects:**_
 
    **Metal Kernels for M1 Mac**
-   - Write kernels to perform NN operations parallely for faster performance on M1 GPU
    - Use Objective-C for the host CPU to execute Compute Pipelines, and MSL (Metal Shading Langauge) for the kernels
-   - Achieve 2x speedup on operations like dot product
+   - Ex: 1D Prefix Sum, 1D Dot Product, 2D Matrix Multiply
    
    **ChocoPy Compiler: RISC-V Code Generation and Optimization**
    - Write an end-to-end compiler in Java: lexing, parser, type checking, semantic analysis, code generation
