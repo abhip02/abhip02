@@ -7,8 +7,8 @@
    - Ex: 1D Prefix Sum, 1D Dot Product, 2D Matrix Multiply
    
    **ChocoPy Compiler: RISC-V Code Generation and Optimization**
-   - Write an end-to-end compiler in Java: lexing, parser, type checking, semantic analysis, code generation
-   - Implement constant folding, loop unrolling, function in-lining, common subexpression elimination, and copy propogation
+   - Wrote an end-to-end compiler in Java: lexing, parser, type checking, semantic analysis, RISC-V assembly code generation
+   - Implemented optimizations like constant folding, loop unrolling, function in-lining, common subexpression elimination, and copy propogation
 
 <!--
 **abhip02/abhip02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
