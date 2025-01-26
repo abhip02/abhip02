@@ -2,7 +2,7 @@
 
 🌱 _**Recent Projects:**_
 
-   **Metal Kernels for M1 Mac**
+   **Metal Kernels for M1 GPU Mac**
    - Use Objective-C for the host CPU to execute Compute Pipelines, and MSL (Metal Shading Langauge) for the kernels
    - Ex: 1D Prefix Sum, 1D Dot Product, 2D Matrix Multiply
    
