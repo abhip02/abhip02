@@ -15,7 +15,7 @@
    -  Achieved 12% lower test loss in 15% fewer gradient steps (on average) against Sklearn, Keras Tuner, and popular learning rate schedules
    - First author in “computational algorithm development” paper submission to ICML 2024; [https://arxiv.org/abs/2310.14671]
 
-   **Firmware: Audio DSP**
+   **Firmware: Audio DSP at Johnson&Johnson MedTech**
    - Configured STM32 mcu to manually perform DSP and translate raw microphone bitstreams into encoded “AES” protocol
    - Enabled circular buffering and manage interrupt race conditions for DMA memory transfer using callbacks and FreeRTOS
    -  Used Arm SIMD vectorization to optimize CPU memory by 15%, and decrease runtime by 8% to allow extra DSP functionality
