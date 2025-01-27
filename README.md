@@ -8,7 +8,7 @@
    
    **Compilers: ChocoPy to RISC-V Code Generation + Optimization**
    - Wrote an end-to-end compiler in Java: lexing, parser, type checking, semantic analysis, RISC-V assembly code generation
-   - Implemented optimizations like constant folding, loop unrolling, function in-lining, common subexpression elimination, and copy propogation
+   - Implemented optimizations: constant folding, loop unrolling, in-lining, common subexpression elimination, and copy propogation
 
    **ML: _PopDescent_**
    - Used Python’s TensorFlow, PyTorch, Keras, to build a global optimization algorithm to improve training performance on CNN, LSTM, and LLM benchmarks
