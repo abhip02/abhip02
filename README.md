@@ -12,7 +12,7 @@
 
    **ML: _PopDescent_**
    - Build global optimization algorithm using Python’s **TensorFlow**+**PyTorch** to reach lower training loss on CNN/LSTM/LLM benchmarks
-   -  Achieved 12% lower test loss in 15% fewer gradient steps (on average) against Sklearn, Keras Tuner, and popular learning rate schedules
+   - Achieved 12% lower test loss in 15% fewer gradient steps against Sklearn, Keras Tuner, and popular learning rate schedules
    - First author in “computational algorithm development” paper submission to ICML 2024; [https://arxiv.org/abs/2310.14671]
 
    **Firmware: Audio DSP at Johnson&Johnson MedTech**
