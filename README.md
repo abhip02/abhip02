@@ -11,7 +11,7 @@
    - Implemented optimizations: constant folding, loop unrolling, in-lining, common subexpression elimination, and copy propogation
 
    **ML: _PopDescent_**
-   - Used Python’s TensorFlow, PyTorch, Keras, to build a global optimization algorithm to improve training performance on CNN, LSTM, and LLM benchmarks
+   - Used Python’s **TensorFlow**+**PyTorch** to build a global optimization algorithm to reach lower training loss on CNN/LSTM/LLM benchmarks
    -  Achieved 12% lower test loss in 15% fewer gradient steps (on average) against Sklearn, Keras Tuner, and popular learning rate schedules
    - First author in “computational algorithm development” paper submission to ICML 2024; [https://arxiv.org/abs/2310.14671]
 
